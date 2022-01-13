@@ -1,4 +1,23 @@
-# yes
+# VueJs-Practice
+Created a recruitment protal where the application form fields are Dynamic.The fields can be rearranged(draggable), hidden and can make it as required field or add new fields.
+Based on the application form,the candidate form will be decided.
+
+# Tech Stack
+● Vue.js
+
+● Javascript
+
+● NUXT
+
+● Vuetify
+
+● Html
+
+● CSS
+
+# Demo
+![screen-recorder](https://user-images.githubusercontent.com/88626686/149366125-511035f8-ae08-4c30-a2fa-a6b100cafeac.gif)
+
 
 ## Build Setup
 
